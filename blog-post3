@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Proyecto-Semana 2</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Proyecto de Parkinson">
+	<meta name="keywords" content="lab, onepage, creative, html">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Favicon -->
+	<link href="img/favicon.ico" rel="shortcut icon"/>
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,700|Roboto:300,400,600" rel="stylesheet">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="css/flaticon.css"/>
+	<link rel="stylesheet" href="css/owl.carousel.css"/>
+	<link rel="stylesheet" href="css/style.css"/>
+
+
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+<body>
+	<!-- Page Preloder -->
+	<div id="preloder">
+		<div class="loader">
+			<img src="img/logo.png" alt="">
+			<h2>Loading.....</h2>
+		</div>
+	</div>
+
+
+	<!-- Header section -->
+	<header class="header-section">
+		<div class="logo">
+			<img src="img/logo.png" alt=""><!-- Logo -->
+		</div>
+		<!-- Navigation -->
+		<div class="responsive"><i class="fa fa-bars"></i></div>
+		<nav>
+			<ul class="menu-list">
+				<li><a href="index.html">Inicio</a></li>
+				<li><a href="services.html">¿Quiénes somos?</a></li>
+				<li class="active"><a href="proy.html">Proyecto</a></li>
+			
+			</ul>
+		</nav>
+	</header>
+	<!-- Header section end -->
+
+
+	<!-- Page header -->
+	<div class="page-top-section">
+		<div class="overlay"></div>
+		<div class="container text-right">
+			<div class="page-info">
+				<h2>Proyecto</h2>
+				<div class="page-links">
+					<a href="#">Proceso</a>
+					<span>Semana 2</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Page header end-->
+
+
+	<!-- page section -->
+	<div class="page-section spad">
+		<div class="container">
+			<div class="row">
+				
+					<!-- Single Post -->
+					<div class="single-post">
+						<div class="post-thumbnail">
+							<center><img src="img/blog/sem2.jpg" alt="">
+							<div class="post-date">
+								<h2>03</h2>
+								<h3>Nov 2017</h3>
+							</div>
+						</div>
+						<div class="element">
+						<h4>SEMANA 2</h4>
+							<div class="post-meta">
+								<a href="">Estado de la Técnica</a>
+								<a href="">Requerimientos funcionales</a>
+								<a href="">-</a>
+							</div>
+							
+							<div class="post-content">
+							<h2 class="post-title">ASPECTOS MECÁNICOS DE LOS TEMBLORES</h2>
+								<p> Los temblores generados por la Enfermedad de Parkinson (E.P.) son los síntomas más notorios de la enfermedad y también los más limitantes. La forma en que se da es comúnmente como movimientos repentinos de supinación y pronación del antebrazo y se ve reflejado en gran medida en la muñeca y consecuentemente en las manos. Es importante aclarar que el temblor parkinsoniano afecta a la extremidad del brazo más no a la mano en sí; lo que sucede es que por ser una parte periférica articulada del cuerpo que está alejada del torso y no está apoyada sobre ninguna estructura, es muy propensa a temblar con menos esfuerzo que el antebrazo. Entonces la manifestación sobre los dedos es tan solo un efecto de lo que está ocurriendo a lo largo del brazo. 
+Por otro lado, la progresión de la enfermedad en muchos casos no está ligada al empeoramiento de los síntomas. Más aun, se han encontrado casos en que los pacientes pueden empezar con tembladeras intensas que reducen su gravedad al paso del tiempo. Ahora bien, la bradicinesia puede ser un factor importante al hablar de la reducción de los temblores tanto en frecuencia como en amplitud por el propio hecho de que los músculos sean más rígidos.
+Desde un aspecto más técnico, los temblores de la E.P. presentan estándares de frecuencia relevantes para su estudio. Los temblores de reposo son los cuales se dan cuando el paciente no está haciendo ningún movimiento en absoluto y se encuentra quieto; tienen frecuencia de estos varía entre 4-7 Hz y son de amplitud considerable. Asimismo, los temblores cinéticos, que son los que ocurren cuando se ejerce algún movimiento voluntario que implica una acción, tienen frecuencias de entre 8-12 Hz.
+<br/>  <font size=2> -	Deuschl, G., Raethjen, J., Baron, P., Krack, P., Linderman, M., Wilms, H. (2000). The pathophysiology of parkinsonian tremor: A review. Recuperado de: https://www.researchgate.net/publication/12245591_The_pathophysiology_of_parkinsonian_tremor_A_review 
+<br/>-	Fernandez, W. ¬[s.f.]. Temblor: Diagnóstico diferencial y tratamiento. Recuperado de: http://www.acnweb.org/guia/g2c06i.pdf 
+</font></p>
+							<div class="post-content">
+							<h2 class="post-title">ESTADO DE LA TÉCNICA</h2>
+								<p>Con el fin de desarrollar una solución al problema de la E.P., consideramos de gran importancia conocer los dispositivos que han sido creados por equipos que tuvieron un objetivo muy similar al nuestro. Para esto indagaremos en el estado del arte orientado a la problemática que nos enseñe cómo se ha trabajado hasta ahora. Sobre todo, el manejo de las los conceptos básicos de las tecnologías implementadas en la actualidad nos proveerá de técnicas sobre las cuales podemos empezar a proyectar y moldear una posible solución. Asimismo, encontraremos cuales son las ventajas y desventajas de tales dispositivos que nos ayuden a identificar posibles mejoras aplicables o simplemente concernirse acerca de otro ámbito de la E.P. 
+								</p>
+<p>A continuación, presentaremos varias dispositivos o equipos utilizados en la actualidad con pacientes que sufren de la E.P. que tienen como objetivo paliar los síntomas.</p>
+								<div class="post-content">
+							<h2 class="post-title">Estimulación Cerebral Profunda</h2>
+<p>Existe una terapia denominada Estimulación Cerebral Profunda (ECP o DBS), tecnología desarrollada para pacientes de Parkinson que ayuda a reducir los síntomas motores de la enfermedad hasta en un 53% y mejorando la calidad de vida del paciente. Esta es una técnica invasiva que consta de la implantación de electrodos dentro del cráneo, ubicado en las zonas del cerebelo que se encargan del movimiento, así emitiendo impulsos eléctricos controlados que acaben con la actividad cerebral que sobre estimula la actividad motora. En sí, inhibe los movimientos involuntarios dándole al paciente la capacidad de moverse sin la incesante tembladera de la E.P. Este dispositivo se usa como un marcapasos. <br/>  <font size=2>-	Estimulación Cerebral Profunda. [s.f.] Hospital Universitario Marqués de Valdecilla. Recuperado de: http://neurocirugia.humv.es/uploads/foto/file/42/Estimulaci_n_profunda.pdf  </font></p>									
+								<center><img src="img/blog/tec1.jpg" alt="">	
+								<div class="post-content">
+									</center></div>
+	
+									<div class="post-content">
+							<h2 class="post-title">EMMA</h2>
+									<p>El proyecto Emma, lleva el nombre de Emma Lawton una diseñadora gráfica de 29 años de edad que sufre de la E.P. Haiyan Zhang, Director de Innovación en Microsoft Research Cambridge y su equipo desarrollaron la tecnología Emma Watch. Este dispositivo consta de una pulsera que se coloca en la muñeca sobre el cual un pequeño equipo de vibratorio ejerce la función de afrontar los temblores. Ahondando en esto último, la tecnología aplicada aquí es el efecto de vibración rítmica, la cual se encarga de establecer un proceso de retroalimentación sostenible. Lo que sucede es que, el paciente con la E.P. se verá afectado por los temblores en la mano y el cerebro lo asimila como una situación descontrolada a la cual debe atender, por este motivo ejerce movimientos repentinos que traten de compensarlo; el Emma watch introduce un ruido blanco que transmite una sensación de estabilidad de modo que el cerebro no detecte el error inicial.
+									</p> <p>Este dispositivo cumple su función de manera muy precisa, enfocándose en los movimientos más finos como los requeridos para la escritura y el diseño. Aun así, es un proyecto que por ahora solo trabaja para los síntomas específicos de Emma y todavía se encuentra etapa de investigación. 
+ <br/>  <font size=2>-	Zhang, H. (2017). Project Emma. Microsoft. Recuperado de: https://www.microsoft.com/en-us/research/project/project-emma/ 
+<br/>-	Jones, B.(2017).We can’t still cure Parkinson’s, but tech is making life easier for suffers. Digital Trends. Recuperado de: https://www.digitaltrends.com/cool-tech/projects-backed-by-google-and-microsoft-are-tackling-parkinsons-disease/
+ <center><img src="img/blog/tec2.jpg" alt="">	
+								<div class="post-content">
+									</center></div>
+	
+ </font></p>
+									<div class="post-content">
+							<h2 class="post-title">GyroGlove</h2>
+							<p>
+Este es un proyecto destinado a suprimir los temblores en personas que sufren de enfermedades neurodegenerativas, en especial, pacientes con Parkinson. El objetivo fue devolverles la funcionalidad de las manos y así contribuir a mejorar la calidad de vida.
+Gyroglove funciona a partir de un sistema de giroscopios que conserva el momento angular de la mano en una posición estable en cualquier plano del movimiento. En efecto, cualquier movimiento aleatorio como los causados por el E.P., no afectará al equilibrio debido a que el dispositivo se encargará de contrarrestarlos induciendo un movimiento contrario al repentino una y otra vez. El sistema implementado es realmente efectivo ya que, según sus pruebas, Es capaz de reducir el 80% de los temblores.
+										</p>
+<p>Este dispositivo es un guante que tiene incluido un pequeño compartimento en el que se encuentran los giroscopios. Es ligero, tiene un diseño ergonómico y ajustable, y un tamaño apropiado que garantiza su fácil uso y sin molestias. 
+ <br/>  <font size=2>-	Gyroglove: Stabilising Life. [s.f.]. Gyrogear. Recuperado de: http://edge.rit.edu/edge/P17044/public/Tremor%20Research/State_of_Technology/GyroGlove1.pdf  </font></p>							
+										<center><img src="img/blog/tec3.jpg" alt="">	
+								<div class="post-content">
+									</center></div>
+	
+										<div class="post-content">
+							<h2 class="post-title">Neuroestimulación con electrodos medulares</h2>
+											<p>Esta técnica consiste en la instalación de una placa con 16 electrodos en la médula espinal mediante una cirugía compleja. Esta placa estimulará mediante impulsos eléctricos a las neuronas que llevan la información desde las piernas hacia el cerebro, lo que les permitirá a los pacientes controlar sus pasos; sin embargo, esto no es una solución del 100% contundente. El paciente tendrá que acompañar el tratamiento con Levodopa.<br/>  <font size=2>-	Rómulo, D. (2017). Técnica chilena contra el Parkinson muestra resultados a nivel mundial. Facultad de Medicina Universidad de Chile. Recuperado de: http://www.medicina.uchile.cl/noticias/135219/tecnica-chilena-contra-el-parkinson-muestra-resultados-a-nivel-mundial.  </font></p>
+											
+											<div class="post-content">
+							<h2 class="post-title">TAME</h2>
+<p>Es un dispositivo no invasivo que asiste al diagnóstico y a la supresión de los síntomas del parkinson. Creado por NUST University of Pakistan, en el 2016, este producto está actualmente en fase de pruebas finales y los resultados son muy convincentes.
+TAME consta de una banda que se usa en el brazo que contiene electrodos conectados a un procesador que se encuentra en un compartimento incluido en el mismo dispositivo. Conjuntamente, una aplicación se encuentra conectada y sincronizada con este para la realización el análisis de los patrones de movimiento obtenidos.
+En cuanto al funcionamiento, este se divide en dos: diagnóstico y supresión. Para el primero, un grupo de sensores se encargan de detectar los movimientos involuntarios y los envía a la aplicación que se encarga del análisis y determina si el paciente sufre de la E.P. o no. En cuanto a la supresión, este sistema utiliza la estimulación eléctrica. Al producirse la tembladera en la mano y brazo el dispositivo emite un impulso eléctrico funcional que induce al movimiento de un conjunto pequeño de músculos que contrarrestan el movimiento. 
+ <br/>  <font size=2> -	Syed, N., Raza, H. [s.f.].TAME: Device for tremor control and minimization. EFSER. Recuperado de: http://efser.eu/responsible-innovation/social-protection/tame-device-for-tremor-control-and-minimization/ </font></p>
+	<center><img src="img/blog/tec4.jpg" alt="">	
+								<div class="post-content">
+									</center></div>
+	
+
+									<div class="post-content">
+							<h2 class="post-title">Liftware Steady o Gyenno Spoon</h2>
+										<p>Este dispositivo es un asa estabilizadora electrónica, la cual posee una pequeña computadora en su interior que se encarga de diferenciar los movimientos involuntarios de aquellos propios de la persona. La tarea de discernir entre movimientos sirve para que el mango de la cuchara actúe en contra de la dirección del movimiento involuntario producido por el Parkinson. Adicionalmente “Liftware” cuenta con una gama de accesorios tales como cuchara de sopa, cuchara de uso diario, tenedor y spork <br/>  <font size=2>-	Pathak, A., Redmond, J., Allen, M., & Chou, K. (2013). Un dispositivo de asistencia portátil no invasivo para acomodar el temblor esencial: un estudio piloto. Recuperado de: https://onlinelibrary.wiley.com/doi/full/10.1002/mds.25796 
+ </font></p> <center><img src="img/blog/tec6.jpg" alt="">	
+								<div class="post-content">
+									</center></div>
+	
+										<div class="post-content">
+							<h2 class="post-title">HIFU</h2>
+											<p> HIFU por sus siglas (Ultrasonido Focal de Alta Intensidad). Es un tratamiento de trastornos neurofuncionales. Usa ultrasonido y Resonancia Magnética para llevar a cabo la operación.
+El proceso consiste en aplicar tratamiento de ultrasonidos que genera hipertermia localizada. La gran ventaja que posee es que no hace falta realizar ningún corte u operación invasiva ya que todo es por Ultrasonido y Resonancia Magnética. 
+Por otro lado, tiene un gran costo y el procedimiento que se realiza es irreversible; es decir, si la hipertermia se genera en algún otro lugar dejará dañado el cerebro permanentemente.
+<br/>  <font size=2> </font></p>
+										<center><img src="img/blog/tec7.JPG" alt="">	
+								<div class="post-content">
+									</center></div>
+	
+											
+												<div class="post-content">
+							<h2 class="post-title">CUADRO COMPARATIVO</h2><a href="Cuadro Comparativo - Hoja 1.pdf"class="read-more">Ver aquí</a>
+													<p> Conclusiones a partir del Cuadro comparativo: </p>
+													-	<p>Los dispositivos no invasivos son considerablemente más baratos que los invasivos. Asimismo, sus efectos son muy positivos, son eficientes y el progreso del desarrollo tecnológico es bastante prometedor.<br/>
+-	La mayoría de estos se enfocan en suprimir o contrarrestar los temblores de la E.P. Por tal razón aportan mucho al desarrollo de la solución que se necesita. Sus técnicas pueden ser aplicables y en la mayoría de casos ya se probó que efectivamente funcionan.<br/>
+-	 dispositivos portables se notan son más efectivos que los que se utilizan. Asimismo, estos pueden atender a distintas necesidades mientras que los que se utilizan tan solo cumplen funciones muy específicas.<br/>
+-	Los costos en los dispositivos portables son muy elevados. Para un peruano promedio la accesibilidad a equipos como está comprometida debido a factores económicos que imposibilitarían en muchos casos su adquisición.</p>
+
+<p>Tomando en cuenta lo que podemos observar en el gráfico sabemos que nuestra solución debe cumplir con ciertos puntos. </p>
+<p>La primera prioridad es que el dispositivo planteado sea de bajo costo. Debido a que nuestro público objetivo serán los pacientes de la E.P., estos en su gran mayoría son adultos mayores que ya no trabajan y que por lo tanto sus ingresos son pequeños. Entonces, se procurará trabajar con materiales baratos, pero sin descuidar la comodidad del paciente y la funcionalidad del dispositivo. </p>
+<p>Elegimos desarrollar una solución no invasiva. Nos interesa lo que representan los dispositivos portables, pues son prácticos y efectivos. Este tipo de solución propone un prototipo que pueda estar compuesto por partes electrónicas y mecánicas que utilicen principios físicos para combatir los temblores. En efecto, esto lo vemos evidenciado en dispositivos como: Gyroglove, Emma Watch y TAME. Es así como buscamos por medio de esta que el paciente pueda sentirse capaz de volver a realizar actividades sin inconvenientes y por su propia cuenta. </p>
+<p>Nos concierne evitar algún tipo de dependencia hacia un objeto y queremos que el paciente se valga por si mismo, siendo quien tome riendas de este; por lo tanto, descartamos algo como Gyenno Spoon. Además buscamos que la solución no se limite a solo una actividad en específico sino que pueda emplearse en más actividades.</p>
+													
+						<div class="post-content">
+							<h2 class="post-title">REQUERIMIENTOS DE DISEÑO</h2>
+								<center><img src="req.jpg" alt="">
+																
+</div>
+	</center>					
+						
+
+							</p>
+							<p> REFERENCIAS
+								-	<p>Deuschl, G., Raethjen, J., Baron, P., Krack, P., Linderman, M., Wilms, H. (2000). The pathophysiology of parkinsonian tremor: A review. Recuperado de: https://www.researchgate.net/publication/12245591_The_pathophysiology_of_parkinsonian_tremor_A_review <br/>
+-	Fernandez, W. ¬[s.f.]. Temblor: Diagnóstico diferencial y tratamiento. Recuperado de: http://www.acnweb.org/guia/g2c06i.pdf  <br/>
+-	Estimulación Cerebral Profunda. [s.f.] Hospital Universitario Marqués de Valdecilla. Recuperado de: http://neurocirugia.humv.es/uploads/foto/file/42/Estimulaci_n_profunda.pdf <br/>
+-	Zhang, H. (2017). Project Emma. Microsoft. Recuperado de: https://www.microsoft.com/en-us/research/project/project-emma/ <br/>
+-	Jones, B.(2017).We can’t still cure Parkinson’s, but tech is making life easier for suffers. Digital Trends. Recuperado de: https://www.digitaltrends.com/cool-tech/projects-backed-by-google-and-microsoft-are-tackling-parkinsons-disease/ 
+-	
+
+-	<br/>Gyroglove: Stabilising Life. [s.f.]. Gyrogear. Recuperado de: http://edge.rit.edu/edge/P17044/public/Tremor%20Research/State_of_Technology/GyroGlove1.pdf
+-	<br/>Rómulo, D. (2017). Técnica chilena contra el Parkinson muestra resultados a nivel mundial. Facultad de Medicina Universidad de Chile. Recuperado de: http://www.medicina.uchile.cl/noticias/135219/tecnica-chilena-contra-el-parkinson-muestra-resultados-a-nivel-mundial. 
+-	<br/>Syed, N., Raza, H. [s.f.].TAME: Device for tremor control and minimization. EFSER. Recuperado de: http://efser.eu/responsible-innovation/social-protection/tame-device-for-tremor-control-and-minimization/
+-	<br/>Pathak, A., Redmond, J., Allen, M., & Chou, K. (2013). Un dispositivo de asistencia portátil no invasivo para acomodar el temblor esencial: un estudio piloto. Recuperado de: https://onlinelibrary.wiley.com/doi/full/10.1002/mds.25796
+
+
+							</p>
+						
+	
+
+	<!--====== Javascripts & Jquery ======-->
+	<script src="js/jquery-2.1.4.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>
